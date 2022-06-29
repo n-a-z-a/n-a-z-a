@@ -36,9 +36,6 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" width="100"/>
 	<img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" width="100"/>
 
-  
-
   </div>
   
-##My Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=n-a-z-a&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n-a-z-a&hide=TeX&layout=compact)
