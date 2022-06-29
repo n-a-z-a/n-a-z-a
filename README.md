@@ -37,5 +37,8 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" width="100"/>
 
   </div>
-  
+
+--
+
+##My Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n-a-z-a&hide=TeX&layout=compact)
