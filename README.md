@@ -38,7 +38,6 @@ Here are some ideas to get you started:
 
   </div>
 
---
+---
 
-##My Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n-a-z-a&hide=TeX&layout=compact)
