@@ -16,8 +16,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+--- 
 
-##Tech Skills
+
+A constant desire to learn new things and to apply them to solve challenges and build solutions drew me to a career in tech.
+
+At the end of 2021 I joined the AWS re/Start programme and in January 2022 I became an AWS Certified Cloud Practitioner.
+
+A few months later I completed a 12-week Software Engineering Bootcamp at _nology_io, where I dove deep into HTML, CSS/SCSS, JavaScipt, React, JAVA and Spring, among others. 
+
+I worked on projects both individually and in a team and here are a few examples of my work:
+
+https://github.com/n-a-z-a/punk-api-challenge  A web app on Brewdog beers
+https://github.com/n-a-z-a/Calculator  A calculator
+https://github.com/n-a-z-a/Game  A quiz
+
+I am continuously exploring coding and refining and expanding my knowledge and I'm looking forward to joining a team where I can actively contribute and keep growing.
+
+📫 How to reach me: <!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/nazareno-d-79a572200/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+
+--- 
+
+## Tech Skills
 
 <div id="badges">
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  width="100"/>
