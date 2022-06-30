@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 A constant desire to learn new things and to apply them to solve challenges and build solutions drew me to a career in tech.
 
-At the end of 2021 I joined the AWS re/Start programme and in January 2022 I became an AWS Certified Cloud Practitioner.
+At the end of 2021, I joined the AWS re/Start programme and, in January 2022, I became an AWS Certified Cloud Practitioner.
 
-A few months later I completed a 12-week Software Engineering Bootcamp at _nology_io, where I dove deep into HTML, CSS/SCSS, JavaScipt, React, JAVA and Spring, among others. 
+A few months later, I completed a 12-week Software Engineering Bootcamp at _nology_io, where I dove deep into HTML, CSS/SCSS, JavaScipt, React, JAVA and Spring, among others. 
 
 I worked on projects both individually and in a team and here are a few examples of my work:
 
