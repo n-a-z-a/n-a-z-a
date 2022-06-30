@@ -25,7 +25,7 @@ At the end of 2021, I joined the AWS re/Start programme and, in January 2022, I 
 
 A few months later, I completed a 12-week Software Engineering Bootcamp at _nology_io, where I dove deep into HTML, CSS/SCSS, JavaScipt, React, JAVA and Spring, among others. 
 
-I worked on projects both individually and in a team and here are a few examples of my work:
+I worked on projects both individually and in a team; and here are a few examples of my work:
 
 🍺 A web app on Brewdog beers https://github.com/n-a-z-a/punk-api-challenge  
 
