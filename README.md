@@ -33,7 +33,7 @@ I worked on projects both individually and in a team; and here are a few example
 
 💡 A quiz https://github.com/n-a-z-a/Game  
 
-I am continuously exploring coding and refining and expanding my knowledge and I'm looking forward to joining a team where I can actively contribute and keep growing.
+I am continuously exploring coding and refining and expanding my knowledge and I am looking forward to joining a team where I can actively contribute and keep growing.
 
 📫 How to reach me: <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/nazareno-d-79a572200/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
