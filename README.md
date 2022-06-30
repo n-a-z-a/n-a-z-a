@@ -28,7 +28,9 @@ A few months later I completed a 12-week Software Engineering Bootcamp at _nolog
 I worked on projects both individually and in a team and here are a few examples of my work:
 
 https://github.com/n-a-z-a/punk-api-challenge  A web app on Brewdog beers
+
 https://github.com/n-a-z-a/Calculator  A calculator
+
 https://github.com/n-a-z-a/Game  A quiz
 
 I am continuously exploring coding and refining and expanding my knowledge and I'm looking forward to joining a team where I can actively contribute and keep growing.
