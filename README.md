@@ -29,7 +29,7 @@ I worked on projects both individually and in a team and here are a few examples
 
 🍺 A web app on Brewdog beers https://github.com/n-a-z-a/punk-api-challenge  
 
-🖩 A calculator https://github.com/n-a-z-a/Calculator  A calculator
+🖩 A calculator https://github.com/n-a-z-a/Calculator
 
 💡 A quiz https://github.com/n-a-z-a/Game  
 
