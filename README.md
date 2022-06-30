@@ -27,16 +27,18 @@ A few months later I completed a 12-week Software Engineering Bootcamp at _nolog
 
 I worked on projects both individually and in a team and here are a few examples of my work:
 
-https://github.com/n-a-z-a/punk-api-challenge  A web app on Brewdog beers
+🍺 A web app on Brewdog beers https://github.com/n-a-z-a/punk-api-challenge  
 
-https://github.com/n-a-z-a/Calculator  A calculator
+🖩 A calculator https://github.com/n-a-z-a/Calculator  A calculator
 
-https://github.com/n-a-z-a/Game  A quiz
+💡 A quiz https://github.com/n-a-z-a/Game  
 
 I am continuously exploring coding and refining and expanding my knowledge and I'm looking forward to joining a team where I can actively contribute and keep growing.
 
 📫 How to reach me: <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/nazareno-d-79a572200/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+🎨 Check out my porfolio: https://n-a-z-a.github.io/portfolio/
 
 
 --- 
